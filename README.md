@@ -1,9 +1,16 @@
-### Hi there 👋
+### 👋 Hello there! Welcome to my GitHub profile!
 
 # 💫 About Me:
+I'am AL Noor Istiak Mahmud.
 Javascript & React Native/React JS Developer
+👋 Hello! I'm a dedicated Computer Science Engineering student with a strong focus on web and mobile app development. My skill set includes JavaScript, React.js, React Native, TypeScript, Object-Oriented Programming with TypeScript, MongoDB, and Mongoose.
 
-[![Cover]([https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white](https://media.licdn.com/dms/image/C5616AQEniwpRSkmlkw/profile-displaybackgroundimage-shrink_350_1400/0/1643725139772?e=1691020800&v=beta&t=W3hyqFFk0OUjRuISCC4zxQ2S7sbBwKF-8KJwP0Jlvrs))]
+I possess a deep understanding of modern frameworks and have successfully built scalable applications with clean and maintainable code. Additionally, I excel in team management, fostering effective communication and collaboration for project success.
+
+As an avid learner, I constantly seek out new knowledge and stay updated on industry trends. I'm passionate about creating innovative solutions and contributing to the developer community.
+
+Feel free to explore my GitHub repositories to see examples of my work. I'm always open to new opportunities and collaborations. Let's connect and together create amazing software solutions! 🚀
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/alnooristiak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alnooristiak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alnooristiak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alnooristiak/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@alnooristiak) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/alnooristiak/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/AL-Noor-Istiak) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19618971/al-noor-istiak-mahmud) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/alnooristiak) 
