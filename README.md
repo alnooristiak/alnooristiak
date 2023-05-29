@@ -1,8 +1,9 @@
 ### 👋 Hello there! Welcome to my GitHub profile!
 
 # 💫 About Me:
-I'am AL Noor Istiak Mahmud.
-Javascript & React Native/React JS Developer
+## I'am AL Noor Istiak Mahmud.
+## Javascript & React Native/React JS Developer.
+
 👋 Hello! I'm a dedicated Computer Science Engineering student with a strong focus on web and mobile app development. My skill set includes JavaScript, React.js, React Native, TypeScript, Object-Oriented Programming with TypeScript, MongoDB, and Mongoose.
 
 I possess a deep understanding of modern frameworks and have successfully built scalable applications with clean and maintainable code. Additionally, I excel in team management, fostering effective communication and collaboration for project success.
