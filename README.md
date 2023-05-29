@@ -3,8 +3,7 @@
 # 💫 About Me:
 Javascript & React Native/React JS Developer
 
-
-https://media.licdn.com/dms/image/C5616AQEniwpRSkmlkw/profile-displaybackgroundimage-shrink_350_1400/0/1643725139772?e=1691020800&v=beta&t=W3hyqFFk0OUjRuISCC4zxQ2S7sbBwKF-8KJwP0Jlvrs
+![Alt text]([image link](https://media.licdn.com/dms/image/C5616AQEniwpRSkmlkw/profile-displaybackgroundimage-shrink_350_1400/0/1643725139772?e=1691020800&v=beta&t=W3hyqFFk0OUjRuISCC4zxQ2S7sbBwKF-8KJwP0Jlvrs))
 
 
 ## 🌐 Socials:
