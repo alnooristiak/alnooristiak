@@ -23,7 +23,7 @@ Feel free to explore my GitHub repositories to see examples of my work. I'm alwa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alnooristiak&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alnooristiak&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://app.daily.dev/istiak0202"><img src="https://api.daily.dev/devcards/b634b38c007848249978503e0aed3950.png?r=lv9" width="400" alt="Al Noor Istiak Mahmud's Dev Card"/></a>
+<a href="https://app.daily.dev/alnooristiak"><img src="https://api.daily.dev/devcards/b634b38c007848249978503e0aed3950.png?r=03v" width="400" alt="Al Noor Istiak Mahmud's Dev Card"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alnooristiak&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
